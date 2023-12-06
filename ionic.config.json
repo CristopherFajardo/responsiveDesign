@@ -1,0 +1,7 @@
+{
+  "name": "responsiveDesign",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
